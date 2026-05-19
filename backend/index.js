@@ -34,4 +34,4 @@ app.listen (port,()=>{
 })
 
 
-mongoose.connect(mongoURL) //inside async n try
+// mongoose.connect(mongoURL) //inside async n try
